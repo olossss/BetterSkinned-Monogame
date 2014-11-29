@@ -1,0 +1,83 @@
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-tpose.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-dance.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\victoria_0.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\victoria_1.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\t-pose_3.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_0.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_0.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\t-pose_3-soldier-walking.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_1.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_1.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\t-pose_3-soldier-idle-walking.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_2.xnb
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_2.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-tpose.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-dance.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\t-pose_3.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\t-pose_3-soldier-walking.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\t-pose_3-soldier-idle-walking.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\walk.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\victoria_0.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\victoria_1.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_0.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_0.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_1.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_1.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_2.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_2.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_3.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_3.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\t-pose_3.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\walk.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_0.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_0.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\obj\x86\Debug\BetterSkinned.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\MonoGame.Framework.Net.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.XInput.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.RawInput.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\MonoGame.Framework.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\MonoGame.Framework.Net.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.XInput.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.RawInput.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Lidgren.Network.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_1.xnb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_1.xnb

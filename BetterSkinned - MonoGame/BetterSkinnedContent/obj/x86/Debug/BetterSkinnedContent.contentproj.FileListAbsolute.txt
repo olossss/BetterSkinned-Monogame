@@ -1,0 +1,5 @@
+C:\Users\cbowen\Desktop\BetterSkinnedSample\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinnedContent\obj\x86\Debug\BetterSkinnedContent.contentprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinnedContent\obj\x86\Debug\BetterSkinnedContent.contentprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinnedContent\obj\x86\Debug\BetterSkinnedContent.contentprojResolveAssemblyReference.cache
