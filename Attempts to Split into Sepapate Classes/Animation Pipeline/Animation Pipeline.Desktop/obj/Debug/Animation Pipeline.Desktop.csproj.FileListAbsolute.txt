@@ -1,0 +1,35 @@
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\Animation Pipeline.Desktop.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\Animation Pipeline.Desktop.pdb
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\MonoGame.Framework.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\XnaAux.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.DXGI.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.XInput.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.RawInput.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\NAudio.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpFont.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\AssimpNet.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\ManagedPVRTC.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\FreeImageNET.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\MonoGame.Framework.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\XnaAux.pdb
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.DXGI.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.XInput.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.RawInput.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\obj\Debug\Animation Pipeline.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\obj\Debug\Animation Pipeline.Desktop.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.Desktop\obj\Debug\Animation Pipeline.Desktop.pdb

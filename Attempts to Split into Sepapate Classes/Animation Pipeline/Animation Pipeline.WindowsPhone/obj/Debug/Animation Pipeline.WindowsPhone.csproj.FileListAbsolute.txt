@@ -1,0 +1,42 @@
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\Animation Pipeline.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\Animation Pipeline.WindowsPhone.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\Animation Pipeline.WindowsPhone.pdb
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\Animation Pipeline.WindowsPhone.pri
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\MonoGame.Framework.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\XnaAux.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.DXGI.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\NAudio.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpFont.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\AssimpNet.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\ManagedPVRTC.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\FreeImageNET.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\MonoGame.Framework.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\XnaAux.pdb
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\XnaAux.pri
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.DXGI.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\Animation Pipeline.WindowsPhone.dll
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\Animation Pipeline.WindowsPhone.pdb
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\killer rin\Programming\Libraries\C#\XNAMonogame\Animation Pipeline\Animation Pipeline.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,88 @@
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\MonoGame.Framework.Net.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.XInput.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.RawInput.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.D3DCompiler.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\NAudio.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\Nvidia.TextureTools.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpFont.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\AssimpNet.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\ManagedPVRTC.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\FreeImageNET.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\MonoGame.Framework.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\MonoGame.Framework.Net.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.XInput.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.RawInput.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\Lidgren.Network.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationPipeline\bin\x86\Debug\SharpDX.Direct3D9.xml

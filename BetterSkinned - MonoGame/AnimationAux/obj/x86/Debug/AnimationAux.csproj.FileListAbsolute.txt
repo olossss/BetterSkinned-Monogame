@@ -1,0 +1,60 @@
+C:\Users\cbowen\Desktop\BetterSkinnedSample\XnaAux\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\XnaAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\XnaAux\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\BetterSkinnedSample\XnaAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cbowen\Desktop\BetterSkinnedSample\XnaAux\obj\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\XnaAux\obj\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationAux\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationAux\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationAux\obj\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationAux\obj\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationAux\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationAux\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationAux\obj\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationAux\obj\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationAux\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationAux\obj\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\BetterSkinned\AnimationAux\obj\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\obj\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\obj\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.XInput.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.RawInput.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\MonoGame.Framework.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.XInput.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.RawInput.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\MonoGame.Framework.Net.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\MonoGame.Framework.Net.xml
+C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\AnimationAux\bin\x86\Debug\Lidgren.Network.xml
