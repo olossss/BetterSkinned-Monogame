@@ -1,0 +1,25 @@
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\Animation Pipeline Monogame.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\Animation Pipeline Monogame.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\MonoGame.Framework.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\XnaAux.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.DXGI.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.XInput.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.RawInput.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\NAudio.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpFont.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\AssimpNet.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\ManagedPVRTC.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\FreeImageNET.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\bin\Debug\XnaAux.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\obj\Debug\Animation Pipeline Monogame.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\obj\Debug\Animation Pipeline Monogame.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\Animation Pipeline Monogame\obj\Debug\Animation Pipeline Monogame.pdb

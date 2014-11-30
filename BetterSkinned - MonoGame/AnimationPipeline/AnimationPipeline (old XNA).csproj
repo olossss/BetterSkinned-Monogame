@@ -9,7 +9,7 @@
     <RootNamespace>AnimationPipeline</RootNamespace>
     <AssemblyName>AnimationPipeline</AssemblyName>
     <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

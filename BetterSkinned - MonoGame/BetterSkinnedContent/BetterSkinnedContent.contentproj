@@ -53,9 +53,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AnimationPipeline\AnimationPipeline.csproj">
-      <Project>{ff2fbe94-50b5-4e78-9592-b95f32a8881e}</Project>
-      <Name>AnimationPipeline</Name>
+    <ProjectReference Include="..\Animation Pipeline Monogame\Animation Pipeline Monogame.csproj">
+      <Project>{ccffba41-f8e3-4e17-b1a9-8d26ef9affb1}</Project>
+      <Name>Animation Pipeline Monogame</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
