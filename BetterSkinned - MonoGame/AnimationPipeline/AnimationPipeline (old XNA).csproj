@@ -56,9 +56,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AnimationAux\AnimationAux.csproj">
+    <ProjectReference Include="..\AnimationAux\AnimationAux %28old XNA%29.csproj">
       <Project>{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}</Project>
-      <Name>AnimationAux</Name>
+      <Name>AnimationAux %28old XNA%29</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

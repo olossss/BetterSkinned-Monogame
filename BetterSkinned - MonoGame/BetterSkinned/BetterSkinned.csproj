@@ -149,14 +149,14 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AnimationAux Monogame\AnimationAux Monogame.csproj">
+      <Project>{34ff81b9-ea4d-435b-a07f-d2a01c6b2ba2}</Project>
+      <Name>AnimationAux Monogame</Name>
+    </ProjectReference>
     <ProjectReference Include="..\BetterSkinnedContent\BetterSkinnedContent.contentproj">
       <Project>{68AF13CC-AA8C-4112-A7DF-A62E9F018D24}</Project>
       <Name>BetterSkinnedContent</Name>
       <XnaReferenceType>Content</XnaReferenceType>
-    </ProjectReference>
-    <ProjectReference Include="..\AnimationAux\AnimationAux.csproj">
-      <Project>{F2F7FA8C-1FC7-42CC-93D8-E5DFF48AC09B}</Project>
-      <Name>AnimationAux</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

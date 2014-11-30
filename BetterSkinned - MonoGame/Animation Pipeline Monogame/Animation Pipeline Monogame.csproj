@@ -51,9 +51,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AnimationAux\AnimationAux.csproj">
-      <Project>{f2f7fa8c-1fc7-42cc-93d8-e5dff48ac09b}</Project>
-      <Name>AnimationAux</Name>
+    <ProjectReference Include="..\AnimationAux Monogame\AnimationAux Monogame.csproj">
+      <Project>{34ff81b9-ea4d-435b-a07f-d2a01c6b2ba2}</Project>
+      <Name>AnimationAux Monogame</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

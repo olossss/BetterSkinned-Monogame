@@ -81,3 +81,5 @@ C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkin
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\SharpDX.Direct3D9.xml
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_1.xnb
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned - Monogame\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_1.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - MonoGame\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
