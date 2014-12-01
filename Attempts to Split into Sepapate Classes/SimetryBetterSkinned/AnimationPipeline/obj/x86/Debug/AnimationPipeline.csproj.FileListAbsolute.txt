@@ -1,0 +1,14 @@
+C:\dev\Masterprojekt\git\Simetry\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\dev\Masterprojekt\git\Simetry\AnimationPipeline\bin\x86\Debug\AnimationAux.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationPipeline\bin\x86\Debug\AnimationAux.pdb
+C:\dev\Masterprojekt\git\Simetry\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\dev\Masterprojekt\git\Simetry\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationAux.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationAux.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb

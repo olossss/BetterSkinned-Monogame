@@ -1,0 +1,6 @@
+C:\dev\Masterprojekt\git\Simetry\AnimationAuxXNA\bin\x86\Release\AnimationAux.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAuxXNA\bin\x86\Release\AnimationAux.pdb
+C:\dev\Masterprojekt\git\Simetry\AnimationAuxXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\dev\Masterprojekt\git\Simetry\AnimationAuxXNA\obj\x86\Release\AnimationAux.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAuxXNA\obj\x86\Release\AnimationAux.pdb
+C:\dev\Masterprojekt\git\Simetry\AnimationAuxXNA\obj\x86\Release\AnimationAuxXNA.csprojResolveAssemblyReference.cache

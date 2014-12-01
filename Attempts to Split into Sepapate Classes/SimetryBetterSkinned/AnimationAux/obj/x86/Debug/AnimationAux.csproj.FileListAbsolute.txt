@@ -1,0 +1,31 @@
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\AnimationAux.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\AnimationAux.pdb
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\MonoGame.Framework.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.DXGI.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.xml
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\bin\x86\Debug\SharpDX.DXGI.xml
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\obj\x86\Debug\AnimationAux.dll
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\obj\x86\Debug\AnimationAux.pdb
+C:\dev\Masterprojekt\git\Simetry\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\AnimationAux.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\AnimationAux.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\MonoGame.Framework.xml
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.xml
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\obj\x86\Debug\AnimationAux.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationAux\obj\x86\Debug\AnimationAux.pdb
