@@ -26,8 +26,8 @@
       <qualifier name="Theme" value="Dark" />
       <qualifier name="AlternateForm" value="" />
     </default>
-    <indexer-config type="RESW" convertDotsToSlashes="true" initialPath="XnaAux" />
-    <indexer-config type="RESJSON" initialPath="XnaAux" />
+    <indexer-config type="RESW" convertDotsToSlashes="true" initialPath="AnimationAux" />
+    <indexer-config type="RESJSON" initialPath="AnimationAux" />
     <indexer-config type="RESFILES" qualifierDelimiter="." />
   </index>
   <index root="\" startIndexAt="obj\Debug\pri.resfiles">

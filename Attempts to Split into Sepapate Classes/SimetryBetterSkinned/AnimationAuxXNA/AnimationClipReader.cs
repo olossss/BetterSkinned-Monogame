@@ -5,7 +5,8 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 
-namespace AnimationAux
+//namespace AnimationAux
+namespace Anarian.DataStructures.Animation.Aux
 {
     public class AnimationClipReader : ContentTypeReader<AnimationClip>
     {

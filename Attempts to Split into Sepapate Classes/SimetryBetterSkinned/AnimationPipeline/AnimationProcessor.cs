@@ -6,7 +6,8 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content.Pipeline;
 using Microsoft.Xna.Framework.Content.Pipeline.Graphics;
 using Microsoft.Xna.Framework.Content.Pipeline.Processors;
-using AnimationAux;
+using Anarian.DataStructures.Animation.Aux;
+//using AnimationAux;
 
 namespace AnimationPipeline
 {

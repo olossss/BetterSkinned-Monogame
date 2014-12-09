@@ -20,7 +20,7 @@ namespace AnimationPipeline
 
         public override string GetRuntimeReader(TargetPlatform targetPlatform)
         {
-            return typeof(ModelExtraReader).AssemblyQualifiedName;
+            return typeof(ModelExtraReader).FullName;//AssemblyQualifiedName;
         }
     }
 }

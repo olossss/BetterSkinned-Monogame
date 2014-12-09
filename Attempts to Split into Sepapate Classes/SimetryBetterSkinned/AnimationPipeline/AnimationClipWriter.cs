@@ -5,7 +5,8 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content.Pipeline;
 using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler;
-using AnimationAux;
+using Anarian.DataStructures.Animation.Aux;
+//using AnimationAux;
 
 namespace AnimationPipeline
 {

@@ -37,3 +37,21 @@ C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-tpose.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-dance.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\t-pose_3.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\walk.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\victoria_0.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\victoria_1.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_0.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_0.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_1.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_1.xnb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\BetterSkinned.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\obj\x86\Debug\BetterSkinned.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb

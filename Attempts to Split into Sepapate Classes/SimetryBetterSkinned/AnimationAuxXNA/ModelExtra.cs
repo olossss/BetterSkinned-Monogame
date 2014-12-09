@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace AnimationAux
+//namespace AnimationAux
+namespace Anarian.DataStructures.Animation.Aux
 {
     /// <summary>
     /// Class that contains additional information attached to the model and

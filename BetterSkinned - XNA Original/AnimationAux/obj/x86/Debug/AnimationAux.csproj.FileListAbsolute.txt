@@ -28,3 +28,9 @@ C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\Debug\XnaAux.dll
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\AnimationAux\obj\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\AnimationAux\bin\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\AnimationAux\bin\x86\Debug\XnaAux.pdb
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\AnimationAux\obj\x86\Debug\XnaAux.dll
+C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\AnimationAux\obj\x86\Debug\XnaAux.pdb

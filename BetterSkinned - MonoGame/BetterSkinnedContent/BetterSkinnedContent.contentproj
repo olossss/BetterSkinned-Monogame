@@ -34,9 +34,6 @@
     <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="MonoGameContentProcessors">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="t-pose_3.fbx">
@@ -53,9 +50,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Animation Pipeline Monogame\Animation Pipeline Monogame.csproj">
-      <Project>{ccffba41-f8e3-4e17-b1a9-8d26ef9affb1}</Project>
-      <Name>Animation Pipeline Monogame</Name>
+    <ProjectReference Include="..\AnimationPipeline\AnimationPipeline %28old XNA%29.csproj">
+      <Project>{ff2fbe94-50b5-4e78-9592-b95f32a8881e}</Project>
+      <Name>AnimationPipeline %28old XNA%29</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
