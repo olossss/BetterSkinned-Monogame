@@ -51,7 +51,7 @@ Code Sample to use in you're setup and in project
 		animatedModel.Update(gameTime);
 		
 	Inside Draw:
-		dance.Draw(graphics.GraphicsDevice, Camera.View, Camera.Projection, Matrix.Identity);     
+		dance.Draw(graphics.GraphicsDevice, Camera.View, Camera.Projection, Matrix.Identity);
 		
 		
 	Feel free to also check out the XNA Original project also included in the repo
