@@ -16,9 +16,20 @@ Instructions to add to project:
 To add additional platforms:
 For easability of adding platforms, I have setup the project using Shared Code Projects. To quickly add a new platform, follow these steps
 	Install the Shared Project Reference Manager extension - https://visualstudiogallery.msdn.microsoft.com/315c13a7-2787-4f57-bdf7-adae6ed54450
+	
 	Add a new Class Library to the solution which targets that platform
+	
+	Right Click on the Class Library and select Properties
+	Under Library, ensure Assembly Name and Default Namespace is set to "AnimationAux"
+	Click Assembly Information and blank out every field
+	Set Title to "AnimationAux"
+	Set First Bar of Assembly Version to "1"
+	Set First Bar of File Version to "1"
+	Set Neutral Language to "(None)"
+	
 	Refrence The "MonoGame.Framework" for that Platform 
 	Right click on Refrences and select "Add Shared Project Refrence. Add a Refrence to AnimationAux.Shared
+	
 	Build the Class Library
 
 Code Sample to use in you're setup and in project
