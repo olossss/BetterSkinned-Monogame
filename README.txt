@@ -34,24 +34,24 @@ For easability of adding platforms, I have setup the project using Shared Code P
 
 Code Sample to use in you're setup and in project
 	Add an FBX to your Content Project
-		Set its Content Processor to "Animation Processor"
+	  Set its Content Processor to "Animation Processor"
 
 	Add this code to the top:
-		private AnimatedModel animatedModel = null;
+	  `private AnimatedModel animatedModel = null;`
 
 	Inside LoadContent:
-		animatedModel = new AnimatedModel("contentName");
-		animatedModel.LoadContent(Content);
+	  `animatedModel = new AnimatedModel("contentName");
+	  animatedModel.LoadContent(Content);
 		
-		AnimationClip clip = animatedModel.Clips[0];
-		AnimationPlayer player = animatedModel.PlayClip(clip);
-		player.Looping = true;
+	  AnimationClip clip = animatedModel.Clips[0];
+	  AnimationPlayer player = animatedModel.PlayClip(clip);
+		player.Looping = true;`
 
 	Inside Update:
-		animatedModel.Update(gameTime);
+	  `animatedModel.Update(gameTime);`
 		
 	Inside Draw:
-		dance.Draw(graphics.GraphicsDevice, Camera.View, Camera.Projection, Matrix.Identity);
+	  `dance.Draw(graphics.GraphicsDevice, Camera.View, Camera.Projection, Matrix.Identity);`
 		
 		
 	Feel free to also check out the XNA Original project also included in the repo
@@ -61,8 +61,8 @@ Original XNA Library: http://metlab.cse.msu.edu/betterskinned.html
 
 Special Thanks
 	RyamBaCo - https://monogame.codeplex.com/discussions/520341
-		If he hadn't supplied me a version of his code with it working, I would have had a much harder time getting this to work.
+	  If he hadn't supplied me a version of his code with it working, I would have had a much harder time getting this to work.
 
 License
 	Royalty Free Soldier Walk Model and Animation from Mixamo
-	All content and source code downloaded from this page are bound by the Microsoft Public License (Ms-PL).
+	All content and source code downloaded from this page are bound by the [Microsoft Public License (Ms-PL)](http://www.opensource.org/licenses/MS-PL).
