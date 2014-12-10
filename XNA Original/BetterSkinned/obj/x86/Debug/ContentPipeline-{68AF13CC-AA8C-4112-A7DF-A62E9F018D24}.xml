@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Victoria-hat-tpose.FBX</Source>
+      <Name>Victoria-hat-tpose</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-tpose.xnb</Output>
+      <Time>2011-11-04T12:56:08.437-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\Victoria-hat-tpose_0.xml</Key>
+        <Value>2014-12-10T16:23:55.2101583-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\victoria_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-hat-dance.FBX</Source>
+      <Name>Victoria-hat-dance</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-dance.xnb</Output>
+      <Time>2011-11-04T12:59:22.761-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\Victoria-hat-dance_0.xml</Key>
+        <Value>2014-12-10T16:24:01.5895153-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\victoria_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>t-pose_3.fbx</Source>
+      <Name>t-pose_3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\t-pose_3.xnb</Output>
+      <Time>2014-11-23T22:43:37.8776279-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\t-pose_3_0.xml</Key>
+        <Value>2014-12-10T16:24:02.8425846-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_0.xnb</Request>
+      <Request>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>walk.FBX</Source>
+      <Name>walk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\walk.xnb</Output>
+      <Time>2014-11-24T19:37:40.3977421-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\walk_0.xml</Key>
+        <Value>2014-12-10T16:24:07.8748649-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_1.xnb</Request>
+      <Request>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Victoria-hat-tpose.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\Victoria-hat-tpose_0.xml</Output>
+      <Time>2011-11-04T12:56:08.437-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\FBX\ACC52E9D\Victoria-hat-tpose.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\victoria_0.xnb</Output>
+      <Time>2014-12-10T16:23:54.49912-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victoria-hat-dance.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\Victoria-hat-dance_0.xml</Output>
+      <Time>2011-11-04T12:59:22.761-04:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\FBX\AB562E6D\Victoria-hat-dance.fbm\victoria.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\victoria_1.xnb</Output>
+      <Time>2014-12-10T16:23:56.2502169-05:00</Time>
+    </Item>
+    <Item>
+      <Source>t-pose_3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\t-pose_3_0.xml</Output>
+      <Time>2014-11-23T22:43:37.8776279-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\FBX\E8612A64\t-pose_3.fbm\Soldier_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_0.xnb</Output>
+      <Time>2014-12-10T16:24:02.2405513-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\FBX\E8612A64\t-pose_3.fbm\Soldier_head_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_0.xnb</Output>
+      <Time>2014-12-10T16:24:02.2465535-05:00</Time>
+    </Item>
+    <Item>
+      <Source>walk.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\walk_0.xml</Output>
+      <Time>2014-11-24T19:37:40.3977421-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\FBX\41F52929\walk.fbm\Soldier_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_Body_diffuse_1.xnb</Output>
+      <Time>2014-12-10T16:24:06.7848044-05:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\FBX\41F52929\walk.fbm\Soldier_head_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\Soldier_head_diffuse_1.xnb</Output>
+      <Time>2014-12-10T16:24:06.7268013-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{68AF13CC-AA8C-4112-A7DF-A62E9F018D24}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinned\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll</Key>
+        <Value>2014-12-10T16:23:53.3260535-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-28T06:47:18.9204674-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
