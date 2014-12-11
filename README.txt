@@ -1,5 +1,5 @@
 Requirements:
-	Visual Studio 2013 (may work with lower, but I haven't tested.)
+	Visual Studio 2013 (Lower versions of Visual Studio have to follow instructions below)
 	Requires XNA 4.0 Refresh - https://msxna.codeplex.com/releases/view/117230
 
 Current Supported Platforms:
@@ -12,6 +12,12 @@ Instructions to add to project:
 	Open up and compile AnimationAux Monogame
 	In your Project, refrence AnimationAux.dll
 	In your Content Project, refrence AnimationPipeline.dll
+
+
+To Use a Different Version of Visual Studio:
+	Follow the steps under "To Add Additional Platforms", minus installing the extension.
+	Instead of refrencing the Shared Project, copy the class files from the "AnimationAux Monogame\AnimationAux" into that class project
+	Build
 
 To add additional platforms:
 For easability of adding platforms, I have setup the project using Shared Code Projects. To quickly add a new platform, follow these steps
@@ -31,6 +37,7 @@ For easability of adding platforms, I have setup the project using Shared Code P
 	Right click on Refrences and select "Add Shared Project Refrence. Add a Refrence to AnimationAux.Shared
 	
 	Build the Class Library
+	
 
 Code Sample to use in you're setup and in project
 	Add an FBX to your Content Project
