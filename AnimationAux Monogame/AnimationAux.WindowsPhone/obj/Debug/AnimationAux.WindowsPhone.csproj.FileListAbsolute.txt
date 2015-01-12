@@ -90,3 +90,33 @@ C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogam
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\qualifiers.txt
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\AnimationAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\AnimationAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\AnimationAux.pri
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.XAudio2.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.Direct3D11.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.Direct2D1.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.DXGI.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\MonoGame.Framework.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.XAudio2.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.Direct3D11.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.Direct2D1.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.DXGI.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\AnimationAux.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\AnimationAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\AnimationAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\priconfig.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\layout.resfiles
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\resources.resfiles
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\pri.resfiles
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -65,6 +65,15 @@ namespace AnimationAux
         /// </summary>
         public List<AnimationClip> Clips { get { return modelExtra.Clips; } }
 
+        /// <summary>
+        /// The asset name of the Animated Model
+        /// </summary>
+        public string AssetName { get { return assetName; } }
+
+        /// <summary>
+        /// The Exta Information stored in the models tag
+        /// </summary>
+        public ModelExtra ModelExtra { get { return modelExtra; } }
         #endregion
 
         #region Construction and Loading

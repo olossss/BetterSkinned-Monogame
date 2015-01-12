@@ -72,3 +72,24 @@ C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogam
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\obj\Debug\AnimationAux.Desktop.csprojResolveAssemblyReference.cache
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\obj\Debug\AnimationAux.dll
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\obj\Debug\AnimationAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\AnimationAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\AnimationAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\MonoGame.Framework.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.XAudio2.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.Direct3D11.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.Direct2D1.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.DXGI.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.XInput.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\MonoGame.Framework.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.XAudio2.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.Direct3D11.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.Direct2D1.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.DXGI.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.XInput.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\obj\Debug\AnimationAux.Desktop.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\obj\Debug\AnimationAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\AnimationAux Monogame\AnimationAux.Desktop\obj\Debug\AnimationAux.pdb

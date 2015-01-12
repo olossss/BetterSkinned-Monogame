@@ -1093,12 +1093,6 @@
             Gets or sets a bool that enables usage of Alt+F4 for window closing on desktop platforms. Value is true by default.
             </summary>
         </member>
-        <member name="P:Microsoft.Xna.Framework.GameWindow.Position">
-            <summary>
-            The location of this window on the desktop, eg: global coordinate space
-            which stretches across all screens.
-            </summary>
-        </member>
         <member name="P:Microsoft.Xna.Framework.GameWindow.IsBorderless">
             <summary>
             Determines whether the border of the window is visible. Currently only supported on the WinDX and WinGL/Linux platforms.
@@ -1106,18 +1100,6 @@
             <exception cref="T:System.NotImplementedException">
             Thrown when trying to use this property on a platform other than the WinDX and WinGL/Linux platforms.
             </exception>
-        </member>
-        <member name="E:Microsoft.Xna.Framework.GameWindow.TextInput">
-            <summary>
-            Use this event to retrieve text for objects like textbox's.
-            This event is not raised by noncharacter keys.
-            This event also supports key repeat.
-            For more information this event is based off:
-            http://msdn.microsoft.com/en-AU/library/system.windows.forms.control.keypress.aspx
-            </summary>
-            <remarks>
-            This event is only supported on the Windows DirectX, Windows OpenGL and Linux platforms.
-            </remarks>
         </member>
         <member name="T:Microsoft.Xna.Framework.MathHelper">
             <summary>
@@ -1714,11 +1696,6 @@
             If <see cref="F:Microsoft.Xna.Framework.Rectangle.Width"/> or <see cref="F:Microsoft.Xna.Framework.Rectangle.Height"/> is an odd number,
             the center point will be rounded down.
             </remarks>
-        </member>
-        <member name="T:Microsoft.Xna.Framework.TextInputEventArgs">
-            <summary>
-            This class is used for the game window's TextInput event as EventArgs.
-            </summary>
         </member>
         <member name="M:Microsoft.Xna.Framework.TitleContainer.OpenStream(System.String)">
             <summary>
@@ -4112,12 +4089,25 @@
         </member>
         <member name="P:Microsoft.Xna.Framework.Graphics.GraphicsAdapter.UseReferenceDevice">
             <summary>
-            Used to request creation of the reference graphics device.
+            Used to request creation of the reference graphics device, 
+            or the default hardware accelerated device (when set to false).
             </summary>
             <remarks>
             This only works on DirectX platforms where a reference graphics
             device is available and must be defined before the graphics device
-            is created.  It defaults to false.
+            is created. It defaults to false.
+            </remarks>
+        </member>
+        <member name="P:Microsoft.Xna.Framework.Graphics.GraphicsAdapter.UseDriverType">
+            <summary>
+            Used to request creation of a specific kind of driver
+            Hardware is preferred most of times for performance. This is the default value.
+            Reference is useful for testing.
+            FastSoftware is useful when Hardware acceleration does not work.
+            </summary>
+            <remarks>
+            These values only work on DirectX platforms and must be defined before the graphics device
+            is created.
             </remarks>
         </member>
         <member name="P:Microsoft.Xna.Framework.Graphics.GraphicsAdapter.IsWideScreen">
@@ -4215,6 +4205,11 @@
             <param name="startIndex">The index within the index buffer to start drawing from.</param>
             <param name="primitiveCount">The number of primitives to render from the index buffer.</param>
             <remarks>Note that minVertexIndex and numVertices are unused in MonoGame and will be ignored.</remarks>
+        </member>
+        <member name="M:Microsoft.Xna.Framework.Graphics.GraphicsDevice.CreateDeviceIndependentResources">
+            <summary>
+            Creates resources not tied the active graphics device.
+            </summary>
         </member>
         <member name="M:Microsoft.Xna.Framework.Graphics.GraphicsDevice.CreateDeviceResources">
             <summary>
@@ -5136,20 +5131,6 @@
         <member name="P:Microsoft.Xna.Framework.Graphics.BlendState.IndependentBlendEnable">
             <summary>
             Enables use of the per-target blend states.
-            </summary>
-        </member>
-        <member name="T:Microsoft.Xna.Framework.Graphics.SwapChainRenderTarget">
-            <summary>
-            A swap chain used for rendering to a secondary GameWindow.
-            </summary>
-            <remarks>
-            This is an extension and not part of stock XNA.
-            It is currently implemented for Windows and DirectX only.
-            </remarks>
-        </member>
-        <member name="M:Microsoft.Xna.Framework.Graphics.SwapChainRenderTarget.Present">
-            <summary>
-            Displays the contents of the active back buffer to the screen.
             </summary>
         </member>
         <member name="M:Microsoft.Xna.Framework.Graphics.TextureCollection.Dirty">
@@ -6320,12 +6301,6 @@
             Gets or sets the window handle for current mouse processing.
             </summary> 
         </member>
-        <member name="T:Microsoft.Xna.Framework.Input.Mouse.POINT">
-            <summary>
-            Struct representing a point. 
-            (Suggestion : Make another class for mouse extensions)
-            </summary>
-        </member>
         <member name="T:Microsoft.Xna.Framework.Input.MouseState">
             <summary>
             Represents a mouse state with cursor position and button press information.
@@ -7058,22 +7033,6 @@
             </summary>
             <param name="progressCallback">Callback that reports back the progress of the music library loading in percents (0-100).</param>
         </member>
-        <member name="T:Microsoft.Xna.Framework.Media.MediaManagerState">
-            <summary>
-            This class provides a way for the MediaManager to be initialised exactly once, 
-            regardless of how many different places need it, and which is called first.
-            </summary>
-        </member>
-        <member name="M:Microsoft.Xna.Framework.Media.MediaManagerState.CheckStartup">
-            <summary>
-            Ensures that the MediaManager has been initialised. Must be called from UI thread.
-            </summary>
-        </member>
-        <member name="M:Microsoft.Xna.Framework.Media.MediaManagerState.CheckShutdown">
-            <summary>
-            Ensures that the MediaManager has been shutdown. Must be called from UI thread.
-            </summary>
-        </member>
         <member name="M:Microsoft.Xna.Framework.Media.MediaPlayer.Play(Microsoft.Xna.Framework.Media.Song)">
             <summary>
             Play clears the current playback queue, and then queues up the specified song for playback. 
@@ -7433,6 +7392,30 @@
             <summary>
             Returns true if the given type can be assigned a value with the given object type
             </summary>
+        </member>
+        <member name="T:MonoGame.Framework.XamlGame`1">
+            <summary>
+            Static class for initializing a Game object for a XAML application.
+            </summary>
+            <typeparam name="T">A class derived from Game.</typeparam>
+        </member>
+        <member name="M:MonoGame.Framework.XamlGame`1.Create(System.String,Windows.UI.Core.CoreWindow,Windows.UI.Xaml.Controls.SwapChainBackgroundPanel)">
+            <summary>
+            Creates your Game class initializing it to work within a XAML application window.
+            </summary>
+            <param name="launchParameters">The command line arguments from launch.</param>
+            <param name="window">The core window object.</param>
+            <param name="swapChainBackgroundPanel">The XAML SwapChainBackgroundPanel to which we render the scene and recieve input events.</param>
+            <returns></returns>
+        </member>
+        <member name="M:MonoGame.Framework.XamlGame`1.Create(Windows.ApplicationModel.Activation.LaunchActivatedEventArgs,Windows.UI.Core.CoreWindow,Windows.UI.Xaml.Controls.SwapChainBackgroundPanel)">
+            <summary>
+            Preserves the previous execution state in MetroGamePlatform and returns the constructed game object initialized with the given window.
+            </summary>
+            <param name="args">The command line arguments from launch.</param>
+            <param name="window">The core window object.</param>
+            <param name="swapChainBackgroundPanel">The XAML SwapChainBackgroundPanel to which we render the scene and recieve input events.</param>
+            <returns></returns>
         </member>
     </members>
 </doc>
