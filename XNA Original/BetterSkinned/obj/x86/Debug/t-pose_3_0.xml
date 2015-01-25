@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\t-pose_3.fbx</SourceFilename>
+      <SourceFilename>D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\t-pose_3.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -1075,7 +1075,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Soldier_body1</Name>
       <Identity>
-        <SourceFilename>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\t-pose_3.fbx</SourceFilename>
+        <SourceFilename>D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\t-pose_3.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -1116,7 +1116,7 @@
     <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
       <Name>Soldier_head6</Name>
       <Identity>
-        <SourceFilename>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\t-pose_3.fbx</SourceFilename>
+        <SourceFilename>D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\t-pose_3.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -1156,11 +1156,11 @@
     </Resource>
   </Resources>
   <ExternalReferences>
-    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">FBX\E8612A64\t-pose_3.fbm\Soldier_Body_diffuse.png</ExternalReference>
-    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">FBX\E8612A64\t-pose_3.fbm\Soldier_Body_specular.png</ExternalReference>
-    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">FBX\E8612A64\t-pose_3.fbm\Soldier_Body_normal.png</ExternalReference>
-    <ExternalReference ID="#External4" TargetType="Graphics:TextureContent">FBX\E8612A64\t-pose_3.fbm\Soldier_head_diffuse.png</ExternalReference>
-    <ExternalReference ID="#External5" TargetType="Graphics:TextureContent">FBX\E8612A64\t-pose_3.fbm\Soldier_head_specular.png</ExternalReference>
-    <ExternalReference ID="#External6" TargetType="Graphics:TextureContent">FBX\E8612A64\t-pose_3.fbm\Soldier_head_normal.png</ExternalReference>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">FBX\4CB2238F\t-pose_3.fbm\Soldier_Body_diffuse.png</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">FBX\4CB2238F\t-pose_3.fbm\Soldier_Body_specular.png</ExternalReference>
+    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">FBX\4CB2238F\t-pose_3.fbm\Soldier_Body_normal.png</ExternalReference>
+    <ExternalReference ID="#External4" TargetType="Graphics:TextureContent">FBX\4CB2238F\t-pose_3.fbm\Soldier_head_diffuse.png</ExternalReference>
+    <ExternalReference ID="#External5" TargetType="Graphics:TextureContent">FBX\4CB2238F\t-pose_3.fbm\Soldier_head_specular.png</ExternalReference>
+    <ExternalReference ID="#External6" TargetType="Graphics:TextureContent">FBX\4CB2238F\t-pose_3.fbm\Soldier_head_normal.png</ExternalReference>
   </ExternalReferences>
 </XnaContent>

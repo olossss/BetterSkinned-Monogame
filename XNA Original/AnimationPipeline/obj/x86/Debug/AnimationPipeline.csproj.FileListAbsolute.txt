@@ -68,3 +68,10 @@ C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\Animati
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb

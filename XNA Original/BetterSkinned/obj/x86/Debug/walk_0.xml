@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\walk.FBX</SourceFilename>
+      <SourceFilename>D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\walk.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -14421,7 +14421,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Soldier_body1</Name>
       <Identity>
-        <SourceFilename>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\walk.FBX</SourceFilename>
+        <SourceFilename>D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\walk.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -14470,7 +14470,7 @@
     <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
       <Name>Soldier_head6</Name>
       <Identity>
-        <SourceFilename>C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\walk.FBX</SourceFilename>
+        <SourceFilename>D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\walk.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -14518,11 +14518,11 @@
     </Resource>
   </Resources>
   <ExternalReferences>
-    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">FBX\41F52929\walk.fbm\Soldier_Body_diffuse.png</ExternalReference>
-    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">FBX\41F52929\walk.fbm\Soldier_Body_specular.png</ExternalReference>
-    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">FBX\41F52929\walk.fbm\Soldier_Body_normal.png</ExternalReference>
-    <ExternalReference ID="#External4" TargetType="Graphics:TextureContent">FBX\41F52929\walk.fbm\Soldier_head_diffuse.png</ExternalReference>
-    <ExternalReference ID="#External5" TargetType="Graphics:TextureContent">FBX\41F52929\walk.fbm\Soldier_head_specular.png</ExternalReference>
-    <ExternalReference ID="#External6" TargetType="Graphics:TextureContent">FBX\41F52929\walk.fbm\Soldier_head_normal.png</ExternalReference>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">FBX\C18B2254\walk.fbm\Soldier_Body_diffuse.png</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">FBX\C18B2254\walk.fbm\Soldier_Body_specular.png</ExternalReference>
+    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">FBX\C18B2254\walk.fbm\Soldier_Body_normal.png</ExternalReference>
+    <ExternalReference ID="#External4" TargetType="Graphics:TextureContent">FBX\C18B2254\walk.fbm\Soldier_head_diffuse.png</ExternalReference>
+    <ExternalReference ID="#External5" TargetType="Graphics:TextureContent">FBX\C18B2254\walk.fbm\Soldier_head_specular.png</ExternalReference>
+    <ExternalReference ID="#External6" TargetType="Graphics:TextureContent">FBX\C18B2254\walk.fbm\Soldier_head_normal.png</ExternalReference>
   </ExternalReferences>
 </XnaContent>

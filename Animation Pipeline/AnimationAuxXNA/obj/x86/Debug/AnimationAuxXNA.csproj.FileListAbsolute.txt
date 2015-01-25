@@ -22,3 +22,9 @@ C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\A
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\obj\x86\Debug\AnimationAux.dll
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\obj\x86\Debug\AnimationAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\bin\x86\Debug\AnimationAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\bin\x86\Debug\AnimationAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\obj\x86\Debug\AnimationAuxXNA.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\obj\x86\Debug\AnimationAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationAuxXNA\obj\x86\Debug\AnimationAux.pdb

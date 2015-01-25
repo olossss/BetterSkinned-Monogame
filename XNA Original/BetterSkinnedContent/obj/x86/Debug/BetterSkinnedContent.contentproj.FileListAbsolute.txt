@@ -4,3 +4,4 @@ C:\Users\killer rin\Downloads\BetterSkinned\BetterSkinnedContent\obj\x86\Debug\B
 C:\Users\killer rin\Downloads\Animation Test\BetterSkinned\BetterSkinnedContent\obj\x86\Debug\BetterSkinnedContent.contentprojResolveAssemblyReference.cache
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\BetterSkinned - XNA Original\BetterSkinnedContent\obj\x86\Debug\BetterSkinnedContent.contentprojResolveAssemblyReference.cache
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\obj\x86\Debug\BetterSkinnedContent.contentprojResolveAssemblyReference.cache
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\BetterSkinnedContent\obj\x86\Debug\BetterSkinnedContent.contentprojResolveAssemblyReference.cache

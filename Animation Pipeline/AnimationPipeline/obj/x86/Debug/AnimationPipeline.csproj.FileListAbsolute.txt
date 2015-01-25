@@ -12,3 +12,10 @@ C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split in
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\Attempts to Split into Sepapate Classes\SimetryBetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationPipeline\bin\x86\Debug\AnimationAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationPipeline\bin\x86\Debug\AnimationAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\Animation Pipeline\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb

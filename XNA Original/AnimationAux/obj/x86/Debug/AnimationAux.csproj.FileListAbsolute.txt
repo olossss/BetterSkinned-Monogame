@@ -40,3 +40,9 @@ C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\Animati
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\obj\x86\Debug\XnaAux.dll
 C:\Users\killer rin\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\obj\x86\Debug\XnaAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\bin\x86\Debug\XnaAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\bin\x86\Debug\XnaAux.pdb
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\obj\x86\Debug\XnaAux.dll
+D:\Documents\GitHub\BetterSkinned-Monogame\XNA Original\AnimationAux\obj\x86\Debug\XnaAux.pdb
